@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+#__next {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* -----------------------------
+   Tailwind v4 Theme Tokens
+-------------------------------- */
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-black-100: #000319;
+   --color-purple-300: #a855f7;
+   --color-purple-light: #d8b4fe;
+   --color-purple-lighter: #f3e8ff;
+}
+
+/* -----------------------------
+   Base Design Tokens (Light)
+-------------------------------- */
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --border: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+
+  --radius: 0.625rem;
+}
+
+/* -----------------------------
+   Dark Mode Tokens
+-------------------------------- */
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --border: oklch(1 0 0 / 10%);
+  --ring: oklch(0.556 0 0);
+}
+
+/* -----------------------------
+   Base Styles
+-------------------------------- */
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* -----------------------------
+   Spotlight Animation
+-------------------------------- */
+@theme {
+  --animate-spotlight: spotlight 2s ease 0.75s 1 forwards;
+}
+
+@keyframes spotlight {
+  0% {
+    opacity: 0;
+    transform: translate(-72%, -62%) scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -40%) scale(1);
+  }
+}
+
+@layer utilities {
+  @keyframes scroll {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  @layer utilities {
+  .text-white-200 {
+    color: #e5e7eb;
+  }
+}
+
+  .animate-scroll {
+    animation: scroll var(--animation-duration, 40s)
+      linear infinite;
+    animation-direction: var(--animation-direction, forwards);
+  }
+}
+
+
+
