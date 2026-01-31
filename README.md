@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- HERO IMAGE -->
+<p align="center">
+  <img src="./public/FirstPics.png" alt="Portfolio Banner" />
+</p>
 
-## Getting Started
+<h1 align="center">Abdulkarim Umar</h1>
 
-First, run the development server:
+<p align="center">
+  <strong>Frontend & Mobile App Developer</strong><br/>
+  Transforming concepts into seamless user experiences
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/your-username/my-portfolio">
+    <img src="https://img.shields.io/github/stars/your-username/my-portfolio?style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 👋 About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Hi, I’m **Abdulkarim**, a **frontend and mobile app developer** based in China.  
+I build modern, responsive web and mobile applications with a strong focus on **user experience, performance, and clean architecture**.
 
-## Learn More
+I enjoy turning ideas into real products using modern JavaScript technologies and continuously improving my skills through hands-on projects and teamwork.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🌐 Web
+- React  
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
 
-## Deploy on Vercel
+### 📱 Mobile
+- React Native  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Docker (basic)  
+- REST APIs  
+- PostgreSQL / MySQL (basic)  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🚀 Features of This Portfolio
+
+- Responsive and modern UI
+- Smooth animations and interactions
+- Project showcase with real-world examples
+- Testimonials and experience sections
+- Clean, scalable component structure
+
+---
+
+## 📂 Projects
+
+This portfolio showcases:
+- Web applications built with **React & Next.js**
+- Mobile apps built with **React Native**
+- UI-focused projects with real functionality
+- Team-based and independent development work
+
+👉 Check the **Projects** section on the website for live demos and repositories.
+
+---
+
+## 🤝 Team & Collaboration Experience
+
+- Worked on **team-based projects**, collaborating on features and UI consistency
+- Participated in planning, implementation, debugging, and integration
+- Comfortable working with shared codebases and version control
+
+---
+
+## 📫 Contact
+
+- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Portfolio: *(Add your live link here)*
+- Email: *(optional)*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to explore, learn from, and get inspired by the code.
+
+---
+
+<p align="center">
+  <strong>⭐ If you like this portfolio, consider giving it a star!</strong>
+</p>
