@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square" />
+  <a href="https://github.com/SecureAuditX">
+    <img src="https://img.shields.io/github/followers/SecureAuditX?label=Followers&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/my-portfolio">
-    <img src="https://img.shields.io/github/stars/your-username/my-portfolio?style=flat-square" />
+  <a href="https://github.com/SecureAuditX/my-portfolio">
+    <img src="https://img.shields.io/github/stars/SecureAuditX/my-portfolio?style=flat-square" />
   </a>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
@@ -41,13 +41,15 @@ I enjoy turning ideas into real products using modern JavaScript technologies an
 - Tailwind CSS  
 
 ### 📱 Mobile
-- React Native  
+- React Native 
+- Expo 
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
 - Docker (basic)  
 - REST APIs  
-- PostgreSQL / MySQL (basic)  
+- PostgreSQL / MySQL 
+- MongoDB
 
 ---
 
@@ -83,9 +85,9 @@ This portfolio showcases:
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
-- Portfolio: *(Add your live link here)*
-- Email: *(optional)*
+- GitHub: https://github.com/SecureAuditX  
+- Portfolio: *(Add your live link here)*  
+- Email: **abdulkarimumar86@gmail.com**
 
 ---
 
