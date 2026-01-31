@@ -21,18 +21,28 @@ const Clients = () => {
                 />
                 {/* Section for companies you worked with before */}
                <div className='flex flex-rows items-center justify-center gap-4 md:gap-16 max-lg md:max-w-300'>
-                {technology.map(({id, img, name, nameImg}) =>(
-                    <div key={id} className='flex md:max-w-60 max-w-32 gap-2'>
-                        <img src={img}
-                        alt={name}
-                        className='md:w-15 w-10'
-                        />
-                        <img src={nameImg}
-                        alt={name}
-                        className='md:w-24 w-20'
-                        />
-                    </div>
+                {technology.map(({ id, img, name, nameImg }) => (
+                <div key={id} className="flex md:max-w-60 max-w-32 gap-2">
+                    
+                    {img && (
+                    <img
+                        src={img}
+                        alt={name || "technology"}
+                        className="md:w-15 w-10"
+                    />
+                    )}
+
+                    {nameImg && (
+                    <img
+                        src={nameImg}
+                        alt={name || "technology name"}
+                        className="md:w-24 w-20"
+                    />
+                    )}
+
+                </div>
                 ))}
+
                </div>
                 
         </div>
