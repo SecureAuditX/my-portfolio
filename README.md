@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square" />
+  <a href="https://github.com/SecureAuditX">
+    <img src="https://img.shields.io/github/followers/SecureAuditX?label=Followers&style=flat-square" />
   </a>
   <a href="https://github.com/your-username/my-portfolio">
-    <img src="https://img.shields.io/github/stars/your-username/my-portfolio?style=flat-square" />
+    <img src="https://img.shields.io/github/stars/SecureAuditX/my-portfolio?style=flat-square" />
   </a>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
@@ -28,7 +28,7 @@
 Hi, I’m **Abdulkarim**, a **frontend and mobile app developer** based in China.  
 I build modern, responsive web and mobile applications with a strong focus on **user experience, performance, and clean architecture**.
 
-I enjoy turning ideas into real products using modern JavaScript technologies and continuously improving my skills through hands-on projects and teamwork.
+I enjoy turning ideas into real products using modern JavaScript (JSX) technologies and continuously improving my skills through hands-on projects and teamwork.
 
 ---
 
@@ -41,13 +41,15 @@ I enjoy turning ideas into real products using modern JavaScript technologies an
 - Tailwind CSS  
 
 ### 📱 Mobile
-- React Native  
+- React Native 
+- Expo 
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
 - Docker (basic)  
 - REST APIs  
-- PostgreSQL / MySQL (basic)  
+- PostgreSQL / MySQL 
+- MongoDB 
 
 ---
 
@@ -83,9 +85,9 @@ This portfolio showcases:
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- GitHub: [https://github.com/SecureAuditX](https://github.com/SecureAuditX)
 - Portfolio: *(Add your live link here)*
-- Email: *(optional)*
+- Email: [abdulkarimumar86@gmail.com]
 
 ---
 
