@@ -185,36 +185,43 @@ export const technology = [
   }, 
   {
     id: 9,
-    name: ""
-  }
+    name: "mongodb",
+    img: "/mongodb.png"
+  },
+  {
+    id: 10,
+    name: "expo",
+    img: "/images.png"
+  },
+ 
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Dev — Personal Projects",
+    desc: "Built multiple responsive web applications using React, Next.js, and TypeScript.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev - React Native",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Open-Source & Learning Projects",
+    desc: "Built and maintained projects while learning modern web technologies including React, Next.js, Tailwind CSS, Docker, and databases. Actively improved code quality, structure, and scalability.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Lead Developer — Team Projects",
+    desc: "Led development within a small team, contributing to architecture decisions, feature implementation, code reviews, and integration of frontend and backend components.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
