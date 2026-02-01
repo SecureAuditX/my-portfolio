@@ -72,19 +72,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "AI Video Generator",
+    des: "An AI video generator web app built with Next.js, using modern backend workflows and AI-powered media services.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/SecureAuditX/ai-video-generator",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Online Video Store",
+    des: "An online video store web app built with PHP and HTML, implementing user signup/login, product search, shopping cart, checkout and order handling.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/SecureAuditX/online-video-store",
   },
   {
     id: 3,
@@ -92,15 +92,15 @@ export const projects = [
     des: "A Python desktop application for managing a convenience store, including product listings, cart operations, and order checkout.",
     img: "/convenientShop.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/SecureAuditX/convenientshop",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Student Housing Mang Sys - Desktop App",
+    des: "A desktop application for managing student housing, featuring user authentication, room tracking, reservations, and maintenance management.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/SecureAuditX/student-housing-management-system",
   },
 ];
 
