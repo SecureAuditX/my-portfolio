@@ -88,9 +88,9 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Convenient Store - Desktop Application",
+    des: "A Python desktop application for managing a convenience store, including product listings, cart operations, and order checkout.",
+    img: "/convenientShop.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/adrianhajdin/ai_saas_app",
   },
