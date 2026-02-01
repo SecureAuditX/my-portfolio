@@ -85,8 +85,7 @@ This portfolio showcases:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/SecureAuditX  
-- Portfolio: *(Add your live link here)*  
+- GitHub: https://github.com/SecureAuditX   
 - Email: **abdulkarimumar86@gmail.com**
 
 ---
