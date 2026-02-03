@@ -82,8 +82,8 @@ export const projects = [
     id: 2,
     title: "Online Video Store",
     des: "An online video store web app built with PHP and HTML, implementing user signup/login, product search, shopping cart, checkout and order handling.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    img: "/online-video-store.png",
+    iconLists: ["/php.png", "/html.png", "/css.png", "/mysql.svg"],
     link: "https://github.com/SecureAuditX/online-video-store",
   },
   {
