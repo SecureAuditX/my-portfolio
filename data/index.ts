@@ -91,7 +91,7 @@ export const projects = [
     title: "Convenient Store - Desktop Application",
     des: "A Python desktop application for managing a convenience store, including product listings, cart operations, and order checkout.",
     img: "/convenientShop.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/python.png", "/avein.png", "/mysql.svg"],
     link: "https://github.com/SecureAuditX/convenientshop",
   },
   {
@@ -165,7 +165,7 @@ export const technology = [
   {
     id: 5,
     name: "docker.",
-    img: "/dock.svg",
+    img: "/figma-color.png",
     // nameImg: "/dockerName.svg",
   },
   {
