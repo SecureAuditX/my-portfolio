@@ -74,8 +74,8 @@ export const projects = [
     id: 1,
     title: "AI Video Generator",
     des: "An AI video generator web app built with Next.js, using modern backend workflows and AI-powered media services.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    img: "/aiVideoGenerator.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/nextjs.svg", "/inngest.png", "/supabase.png"],
     link: "https://github.com/SecureAuditX/ai-video-generator",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     title: "Online Video Store",
     des: "An online video store web app built with PHP and HTML, implementing user signup/login, product search, shopping cart, checkout and order handling.",
     img: "/Heading.png",
-    iconLists: ["/php.png", "/html.png", "/css.png", "/mysql.svg"],
+    iconLists: ["/php.png", "/html.png", "/css.png", "/js.svg", "/mysql.svg"],
     link: "https://github.com/SecureAuditX/online-video-store",
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "Convenient Store - Desktop Application",
     des: "A Python desktop application for managing a convenience store, including product listings, cart operations, and order checkout.",
     img: "/convenientShop.png",
-    iconLists: ["/python.png", "/avein.png", "/mysql.svg"],
+    iconLists: ["/python.png", "/avein.png", "/mysql.svg", "/customTkinter.png"],
     link: "https://github.com/SecureAuditX/convenientshop",
   },
   {
@@ -141,7 +141,7 @@ export const technology = [
   {
     id: 1,
     name: "Nextjs",
-    img: "/cloud.svg",
+    img: "/nextjs.svg",
     // nameImg: "/cloudName.svg",
   },
   {
@@ -159,7 +159,7 @@ export const technology = [
   {
     id: 4,
     name: "stream",
-    img: "/s.svg",
+    img: "/js.svg",
     // nameImg: "/streamName.svg",
   },
   {
