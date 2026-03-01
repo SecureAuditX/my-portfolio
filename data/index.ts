@@ -70,8 +70,16 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
+   {
     id: 1,
+    title: "Student Task Manager – Mobile App",
+    des: "A mobile application designed to help students organize subjects, manage tasks, and track study progress with a clean, intuitive interface.",
+    img: "/StudentTaskManager.jpg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg"],
+    link: "https://github.com/SecureAuditX/student-task-manager-app",
+  },
+  {
+    id: 2,
     title: "AI Video Generator",
     des: "An AI video generator web app built with Next.js, using modern backend workflows and AI-powered media services.",
     img: "/aiVideoGenerator.png",
@@ -79,7 +87,7 @@ export const projects = [
     link: "https://github.com/SecureAuditX/ai-video-generator",
   },
   {
-    id: 2,
+    id: 3,
     title: "Online Video Store",
     des: "An online video store web app built with PHP and HTML, implementing user signup/login, product search, shopping cart, checkout and order handling.",
     img: "/Heading.png",
@@ -87,21 +95,14 @@ export const projects = [
     link: "https://github.com/SecureAuditX/online-video-store",
   },
   {
-    id: 3,
+    id: 4,
     title: "Convenient Store - Desktop Application",
     des: "A Python desktop application for managing a convenience store, including product listings, cart operations, and order checkout.",
     img: "/convenientShop.png",
     iconLists: ["/python.png", "/avein.png", "/mysql.svg", "/customTkinter.png"],
     link: "https://github.com/SecureAuditX/convenientshop",
   },
-  {
-    id: 4,
-    title: "Student Housing Mang Sys - Desktop App",
-    des: "A desktop application for managing student housing, featuring user authentication, room tracking, reservations, and maintenance management.",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/SecureAuditX/student-housing-management-system",
-  },
+ 
 ];
 
 export const  testimonials = [
